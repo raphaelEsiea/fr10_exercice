@@ -1,0 +1,11 @@
+name,latitude,longitude,region,population
+Paris,48.8566,2.3522,Île-de-France,2148271
+Marseille,43.2964,5.37,Provence-Alpes-Côte d’Azur,868277
+Lyon,45.76,4.84,Auvergne-Rhône-Alpes,518635
+Toulouse,43.6045,1.444,Occitanie,486828
+Nice,43.7034,7.2663,Provence-Alpes-Côte d’Azur,341032
+Nantes,47.2181,-1.5528,Pays de la Loire,314138
+Montpellier,43.6119,3.8772,Occitanie,290053
+Strasbourg,48.5833,7.7458,Grand Est,284677
+Bordeaux,44.84,-0.58,Nouvelle-Aquitaine,257068
+Lille,50.6278,3.0583,Hauts-de-France,233098
